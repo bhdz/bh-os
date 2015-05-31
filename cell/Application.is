@@ -1,0 +1,3 @@
+Hi.
+This defines an App as seen by bh-os distro.
+Apps and Services should be fully replaceable, removeable, and maintainable _without_ core restarts.
